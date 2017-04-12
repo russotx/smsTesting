@@ -11,7 +11,7 @@ var settings = {
     "postman-token": "8f3311e3-eca1-84a3-7d75-721ef8550741"
   },
   "processData": false,
-  "data": "{\n    \"from\": \"5122981573\",\n    \"to\": \"5127898565\",\n    \"jsonp\": \"Hello from Bandwidth!\"\n}"
+  "data": "{\n    \"from\": \"5122981573\",\n    \"to\": \"5127898565\",\n    \"text\": \"Hello from Bandwidth!\"\n}"
 }
 
 var sendSMS = function(){
